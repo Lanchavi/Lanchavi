@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lanchavi Patil</h1>
 <h3 align="center">A CSE student exploring new ways to run!</h3>
 
-- 🔭 I’m currently working on **Machine Learning with Python**
-
-- 🌱 I’m currently learning **Python and Java**
-
-- 📫 How to reach me **lanchavipatil@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lanchavipatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lanchavipatil" height="30" width="40" /></a>
